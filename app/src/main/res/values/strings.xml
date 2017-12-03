@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SampleApp</string>
+    <string name="details_activity">Details</string>
+    <string name="menu_item_description">item image</string>
+    <string name="menu_item_transition">image transition</string>
+    <string name="image_url">image url</string>
+    <string name="title">item title</string>
+    <string name="description">item desccription</string>
+    <string name="error_msg">Error while getting data .. please try again.</string>
+    <string name="no_internet_msg">Please check your connection and try again.</string>
+</resources>
